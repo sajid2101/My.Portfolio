@@ -21,6 +21,4 @@ I am focused on building a solid foundation in programming and problem-solving. 
 * **Schooling** Navjyoti Sen. Sec. School (Completed: 2025)
 
 ## 📬 Contact Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **GitHub:** [Your GitHub Profile Link]
-* **Email:** yourname@gmail.com
+* **Email:** sajid1219.be25@chitkarauniversity.edu.in
